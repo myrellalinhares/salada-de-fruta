@@ -23,4 +23,4 @@ a salada que fizemos na escola
       
       <p>colocar no recipiente e misturar, regar com o suco da laraja</p>
       
-      <img> src="https://cdn.wizard.com.br/wp-content/uploads/2017/01/05115936/aprenda-os-nomes-das-frutas-em-ingles.jpg" width="300"  height="300"</img>
+      <img src="https://cdn.wizard.com.br/wp-content/uploads/2017/01/05115936/aprenda-os-nomes-das-frutas-em-ingles.jpg" width="300"  height="300">
