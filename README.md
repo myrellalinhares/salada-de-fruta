@@ -20,5 +20,7 @@ a salada que fizemos na escola
       <h3> MODO DE FAZER</h3>
       
       <p>higienizar, descascar e picar  as frutas</p>
+      
       <p>colocar no recipiente e misturar, regar com o suco da laraja</p>
-      <p><img> src="https://cdn.wizard.com.br/wp-content/uploads/2017/01/05115936/aprenda-os-nomes-das-frutas-em-ingles.jpg" width="300"  height="300"</img></p>
+      
+      <img> src="https://cdn.wizard.com.br/wp-content/uploads/2017/01/05115936/aprenda-os-nomes-das-frutas-em-ingles.jpg" width="300"  height="300"</img>
